@@ -5,6 +5,6 @@ class BoundsException extends Exception
 	{
 	printStackTrace();
 	
-	System.err.println("Out of bounds!");
+	System.out.println("Out of bounds!");
 	}
 }
